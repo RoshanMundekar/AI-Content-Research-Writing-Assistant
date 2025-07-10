@@ -74,6 +74,7 @@ Then open your browser and navigate to `http://localhost:8501`
 
 ## 🔧 Project Structure
 
+
 ```
 ai-content-assistant/
 ├── streamlit_app.py    # Web interface
@@ -83,6 +84,14 @@ ai-content-assistant/
 └── README.md         # Documentation
 ```
 
+## 📸 Screenshots
 
+### 🖼️ Streamlit Interface – Input Form
+![AI Content Research & Writing Assistant - Input](1.png)
+*User enters a topic, selects temperature, and clicks "Generate Content".*
+
+### 🖼️ Streamlit Interface – Generated Output
+![AI Content Research & Writing Assistant - Output](2.png)
+*AI-generated content shown with download option.*
 
 
